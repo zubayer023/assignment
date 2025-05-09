@@ -3,7 +3,7 @@ import Footer from "./components/footer/Footer";
 import FqsSection from "./components/fqsSection/FqsSection";
 import Header from "./components/Header/Header";
 import Hero from "./components/hero/Hero";
-import Pricing from "./components/pricesection/Pricing";
+import Pricing from "./components/priceSection/Pricing";
 import Service from "./components/service/Service";
 import Testimonial from "./components/testimonial/Testimonial";
 import TrialSection from "./components/trialSection/TrialSection";
